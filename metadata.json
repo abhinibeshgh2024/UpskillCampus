@@ -1,0 +1,6 @@
+{
+  "name": "Agriculture Crop Production Predictor & RAG Assistant",
+  "description": "An interactive Indian crop production and yield prediction system with financial projections and a client-side RAG assistant powered by dynamic keyword-matching knowledge retrieval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
